@@ -1,0 +1,40 @@
+*{margin: 0%;}
+header{  display: flex; 
+    background-color: rgb(9, 133, 29);
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+}
+header h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+ #logo{ 
+width: 10%;
+height: 10%;
+margin-top: auto;
+ }
+nav ul{ list-style: decimal; display: flex;
+}
+nav ul li{margin: 10px;}
+
+body p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+justify-content: center;}
+
+section p{justify-content: center;}
+
+
+#historia h2{margin-top: 200px;margin-left: 500px;}
+#historia p{ background-color: azure;}
+#historia img{margin-left: 500px;}
+#electricas p{background-color: azure;}
+#electricas h3{margin-left: 500px;}
+#electricas img{margin-left: 500px;}
+
+footer{text-align: center;  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: beige;}
+footer h4{font-family: 'Times New Roman', Times, serif;}
+
+
+
+
